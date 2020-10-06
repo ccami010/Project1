@@ -1,0 +1,2059 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "section": "Sunday Review",
+  "last_updated": "2020-10-03T13:56:25-04:00",
+  "num_results": 25,
+  "results": [
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "To Hold Police Accountable, Ax the Arbitrators",
+      "abstract": "Communities should have the power to fire abusive officers. But that power often rests with an obscure group of unelected labor arbitrators.",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/police-arbitration-reform-unions.html",
+      "uri": "nyt://article/58605f14-ae2f-55fa-ad49-0db16f15dbdc",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T01:57:20-04:00",
+      "created_date": "2020-10-03T14:30:06-04:00",
+      "published_date": "2020-10-03T14:30:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police Reform",
+        "Arbitration, Conciliation and Mediation",
+        "Police Brutality, Misconduct and Shootings",
+        "Black Lives Matter Movement",
+        "George Floyd Protests (2020)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/04police_editorial2/04police_editorial2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Malike Sidibe for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/04police_editorial2/04police_editorial2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Malike Sidibe for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/04police_editorial2/04police_editorial2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Malike Sidibe for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/04police_editorial2/04police_editorial2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Malike Sidibe for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/04police_editorial2/04police_editorial2-articleInline.jpg",
+          "format": "Normal",
+          "height": 238,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Malike Sidibe for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GAky0U"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "A Toxic Alien Is Taking Over Russia",
+      "abstract": "The giant hogweed isn\u2019t just an invasive plant. It\u2019s a metaphor for what is happening to much of this country.",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/russia-hogweed.html",
+      "uri": "nyt://article/0edfd382-843e-5557-857f-437d0ffdd792",
+      "byline": "By Maria Antonova",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T12:04:25-04:00",
+      "created_date": "2020-10-03T11:32:40-04:00",
+      "published_date": "2020-10-03T11:32:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Flowers and Plants",
+        "Invasive Species",
+        "Hazardous and Toxic Substances",
+        "Rural Areas",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/opinion/05Antonova-2/03Antonova-2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/opinion/05Antonova-2/03Antonova-2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/opinion/05Antonova-2/03Antonova-2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/opinion/05Antonova-2/03Antonova-2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/05/opinion/05Antonova-2/03Antonova-2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Sergey Ponomarev for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GdA1o7"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Now the President and Frontline Workers Have Something in Common",
+      "abstract": "The difference is not all frontline workers can protect themselves on the job. The coronavirus race gap, explained.",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/latinos-coronavirus.html",
+      "uri": "nyt://article/6853c518-6c3d-5811-b1f8-1fbf92d9b0d9",
+      "byline": "By Jeneen Interlandi",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T01:57:21-04:00",
+      "created_date": "2020-10-03T11:00:09-04:00",
+      "published_date": "2020-10-03T11:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Hispanic-Americans",
+        "Black People",
+        "Workplace Hazards and Violations",
+        "Income Inequality",
+        "Discrimination",
+        "Health Insurance and Managed Care",
+        "Deaths (Fatalities)",
+        "Disease Rates",
+        "Race and Ethnicity"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Interlandi/03Interlandi-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farmworkers in April in California.",
+          "copyright": "Brent Stirton/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Interlandi/03Interlandi-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farmworkers in April in California.",
+          "copyright": "Brent Stirton/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Interlandi/03Interlandi-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farmworkers in April in California.",
+          "copyright": "Brent Stirton/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Interlandi/03Interlandi-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farmworkers in April in California.",
+          "copyright": "Brent Stirton/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Interlandi/03Interlandi-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Farmworkers in April in California.",
+          "copyright": "Brent Stirton/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/30wfPV9"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Reality Bursts the Trumpworld Bubble",
+      "abstract": "In a moment that feels biblical, the implacable virus has come to the president\u2019s door.",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/trump-coronavirus-covid.html",
+      "uri": "nyt://article/4070a7ef-a77e-5ea0-b0c7-728b5b5beba8",
+      "byline": "By Maureen Dowd",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T16:33:51-04:00",
+      "created_date": "2020-10-03T08:36:23-04:00",
+      "published_date": "2020-10-03T08:36:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3lahqYF"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Trump\u2019s Diagnosis Is a Wake-Up Call for Americans",
+      "abstract": "Forget the snark. Just wear a mask.",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/trump-coronavirus-infection.html",
+      "uri": "nyt://article/ba82550d-c0fe-5d66-9195-06be085d8395",
+      "byline": "By Nicholas Kristof",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T01:57:20-04:00",
+      "created_date": "2020-10-03T08:19:53-04:00",
+      "published_date": "2020-10-03T08:19:53-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Masks",
+        "Protective Clothing and Gear",
+        "Quarantines",
+        "Disease Rates",
+        "Epidemics",
+        "Tests (Medical)",
+        "Deaths (Fatalities)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/04Kristof1/merlin_174327531_07f75b03-7520-468d-8f5d-847aaa67729a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1407,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/04Kristof1/04Kristof1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/04Kristof1/04Kristof1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/04Kristof1/04Kristof1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Lamarque/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/04Kristof1/merlin_174327531_07f75b03-7520-468d-8f5d-847aaa67729a-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Lamarque/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/36v4Cbk"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "The Tragedy of Donald Trump",
+      "abstract": "In the drama of 2020, the president\u2019s own coronavirus infection is one more seemingly pre-scripted twist.",
+      "url": "https://www.nytimes.com/2020/10/02/opinion/sunday/donald-trump-coronavirus.html",
+      "uri": "nyt://article/67fbf62c-16d5-5703-8e59-6b7c9fd92413",
+      "byline": "By Ross Douthat",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T09:44:21-04:00",
+      "created_date": "2020-10-02T17:04:21-04:00",
+      "published_date": "2020-10-02T17:04:21-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/merlin_177934623_3abbd24e-350b-4868-b420-f69baa303428-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carlos Barria/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/02Douthat-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carlos Barria/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/02Douthat-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carlos Barria/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/merlin_177934623_3abbd24e-350b-4868-b420-f69baa303428-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carlos Barria/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/opinion/sunday/02Douthat/merlin_177934623_3abbd24e-350b-4868-b420-f69baa303428-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Carlos Barria/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GmPQJ1"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "The Pandemic Comes for the President",
+      "abstract": "Donald Trump has the coronavirus. Let\u2019s learn from that.",
+      "url": "https://www.nytimes.com/2020/10/02/opinion/sunday/trump-positive-coronavirus.html",
+      "uri": "nyt://article/5696c056-f681-5cfd-9cb2-7ba553856976",
+      "byline": "By Frank Bruni",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T18:01:59-04:00",
+      "created_date": "2020-10-02T07:17:19-04:00",
+      "published_date": "2020-10-02T07:17:19-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/merlin_177949650_5b7316bb-8be2-46d7-ade0-7720e51fdb07-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/02BruniWeb-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/02BruniWeb-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/merlin_177949650_5b7316bb-8be2-46d7-ade0-7720e51fdb07-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02BruniWeb-02/merlin_177949650_5b7316bb-8be2-46d7-ade0-7720e51fdb07-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Erin Schaff/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3l8zXVl"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "The I.R.S. Is Outgunned",
+      "abstract": "The agency doesn\u2019t have the resources to battle the tax lawyers of the ultrarich. Trump\u2019s returns are just one example of how little the wealthy pay.",
+      "url": "https://www.nytimes.com/2020/10/02/opinion/sunday/irs-tax-income-inequality.html",
+      "uri": "nyt://article/ed17ad45-1345-5066-92ac-afcad7926cf2",
+      "byline": "By Natasha Sarin",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T18:02:05-04:00",
+      "created_date": "2020-10-02T05:00:49-04:00",
+      "published_date": "2020-10-02T05:00:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Taxes (US)",
+        "Trump Tax Returns",
+        "Tax Evasion",
+        "Income Inequality",
+        "Corporate Taxes",
+        "United States Politics and Government",
+        "High Net Worth Individuals"
+      ],
+      "org_facet": [
+        "Internal Revenue Service"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02Sarin2/merlin_171593073_6e25b8e6-3d86-4953-b389-a2bbed69faf1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02Sarin2/02Sarin2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02Sarin2/02Sarin2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02Sarin2/merlin_171593073_6e25b8e6-3d86-4953-b389-a2bbed69faf1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Al Drago for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/02Sarin2/merlin_171593073_6e25b8e6-3d86-4953-b389-a2bbed69faf1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Al Drago for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3ni4jX8"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Considering a Coronavirus Divorce? You\u2019re in Good Company",
+      "abstract": "A lot of families are going to need restructuring by the time this is over. They probably needed it before.",
+      "url": "https://www.nytimes.com/2020/10/01/opinion/sunday/divorce-marriage-coronavirus.html",
+      "uri": "nyt://article/022faab5-1a55-5d63-8c57-fa4754b3a000",
+      "byline": "By Kim Brooks",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T13:52:55-04:00",
+      "created_date": "2020-10-01T05:00:15-04:00",
+      "published_date": "2020-10-01T05:00:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Families and Family Life",
+        "Coronavirus (2019-nCoV)",
+        "Marriages",
+        "Divorce, Separations and Annulments",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/01kimbrooks/01kimbrooks-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1772,
+          "width": 1772,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Beya Reba\u00ef"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/01kimbrooks/01kimbrooks-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Beya Reba\u00ef"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/01kimbrooks/01kimbrooks-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Beya Reba\u00ef"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/01kimbrooks/01kimbrooks-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Beya Reba\u00ef"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/01kimbrooks/01kimbrooks-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Beya Reba\u00ef"
+        }
+      ],
+      "short_url": "https://nyti.ms/3neVmxV"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Trump Can Still Make a Difference on Masks",
+      "abstract": "A simple, effective tool to prevent coronavirus infection has turned into a partisan fault line. It\u2019s not too late to turn it around.",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/sunday/coronavirus-masks.html",
+      "uri": "nyt://article/9cb52267-ef82-56ee-bc11-049debc457ea",
+      "byline": "By Farhad Manjoo",
+      "item_type": "Article",
+      "updated_date": "2020-10-04T18:02:05-04:00",
+      "created_date": "2020-09-30T05:00:22-04:00",
+      "published_date": "2020-09-30T05:00:22-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Masks",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)",
+        "News and News Media",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention",
+        "World Health Organization"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Pence, Mike"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/opinion/30ManjooWeb/merlin_177142302_f7fe2c08-9c6a-4167-80fa-400ac556d9ed-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The most striking feature of Trump\u2019s stance on masks is that it has never been consistent.",
+          "copyright": "Erin Scott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/opinion/30ManjooWeb/30ManjooWeb-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The most striking feature of Trump\u2019s stance on masks is that it has never been consistent.",
+          "copyright": "Erin Scott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/opinion/30ManjooWeb/30ManjooWeb-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The most striking feature of Trump\u2019s stance on masks is that it has never been consistent.",
+          "copyright": "Erin Scott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/opinion/30ManjooWeb/30ManjooWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The most striking feature of Trump\u2019s stance on masks is that it has never been consistent.",
+          "copyright": "Erin Scott for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/30/opinion/30ManjooWeb/merlin_177142302_f7fe2c08-9c6a-4167-80fa-400ac556d9ed-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The most striking feature of Trump\u2019s stance on masks is that it has never been consistent.",
+          "copyright": "Erin Scott for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3nbw97A"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "The Case for Accepting Defeat on Roe",
+      "abstract": "Maybe it is time to face the fact that abortion access will be fought for in legislatures, not courts.",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/sunday/abortion-roe-supreme-court.html",
+      "uri": "nyt://article/996d90bf-608d-53c7-ad8b-590ee5668361",
+      "byline": "By Joan C. Williams",
+      "item_type": "Article",
+      "updated_date": "2020-10-03T13:55:45-04:00",
+      "created_date": "2020-09-29T05:00:16-04:00",
+      "published_date": "2020-09-29T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Roe v Wade (Supreme Court Decision)",
+        "Abortion",
+        "Women's Rights",
+        "United States Politics and Government",
+        "States (US)",
+        "State Legislatures"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Barrett, Amy Coney",
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/merlin_167724633_59de7ca1-8eb5-4e41-a3fd-72c119e31ab4-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1416,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anti-abortion demonstrators listen to President Trump at the March for Life in Washington last January.",
+          "copyright": "Olivier Douliery/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/merlin_167724633_59de7ca1-8eb5-4e41-a3fd-72c119e31ab4-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anti-abortion demonstrators listen to President Trump at the March for Life in Washington last January.",
+          "copyright": "Olivier Douliery/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/merlin_167724633_59de7ca1-8eb5-4e41-a3fd-72c119e31ab4-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anti-abortion demonstrators listen to President Trump at the March for Life in Washington last January.",
+          "copyright": "Olivier Douliery/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/29Williams4-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anti-abortion demonstrators listen to President Trump at the March for Life in Washington last January.",
+          "copyright": "Olivier Douliery/Agence France-Presse \u2014 Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Williams4/merlin_167724633_59de7ca1-8eb5-4e41-a3fd-72c119e31ab4-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Anti-abortion demonstrators listen to President Trump at the March for Life in Washington last January.",
+          "copyright": "Olivier Douliery/Agence France-Presse \u2014 Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2HTlwGq"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Trump\u2019s Messy Divorce From New York",
+      "abstract": "Has a president ever been so at odds with his hometown?",
+      "url": "https://www.nytimes.com/2020/09/26/opinion/sunday/trump-cuomo-new-york-revenge.html",
+      "uri": "nyt://article/e20017d2-9cf5-5ed6-8db1-8e5bec671378",
+      "byline": "By The Editorial Board and Damon Winter",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T17:23:02-04:00",
+      "created_date": "2020-09-26T14:30:12-04:00",
+      "published_date": "2020-09-26T14:30:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal-State Relations (US)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Cuomo, Andrew M"
+      ],
+      "geo_facet": [
+        "New York City",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/25/opinion/25trumptop/merlin_177606651_6d88fa48-5c57-461e-9f80-0948980278ec-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1651,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/25/opinion/25trumptop/25trumptop-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/25/opinion/25trumptop/25trumptop-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/25/opinion/25trumptop/25trumptop-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/10/25/opinion/25trumptop/merlin_177606651_6d88fa48-5c57-461e-9f80-0948980278ec-articleInline.jpg",
+          "format": "Normal",
+          "height": 236,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3ia9Pr8"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "To Beat Trump, Mock Him",
+      "abstract": "The lesson from pro-democracy fighters abroad: Humor deflates authoritarian rulers.",
+      "url": "https://www.nytimes.com/2020/09/26/opinion/sunday/trump-politics-humor.html",
+      "uri": "nyt://article/8ed3a9ad-b358-5234-a01a-3ffc738a155e",
+      "byline": "By Nicholas Kristof",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T19:44:16-04:00",
+      "created_date": "2020-09-26T14:30:07-04:00",
+      "published_date": "2020-09-26T14:30:07-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Cartoons and Cartoonists",
+        "Comedy and Humor",
+        "Polls and Public Opinion",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/27Kristof/27Kristof-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Aitchison/In Pictures, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/27Kristof/27Kristof-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Aitchison/In Pictures, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/27Kristof/27Kristof-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Aitchison/In Pictures, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/27Kristof/27Kristof-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Aitchison/In Pictures, via Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/27Kristof/27Kristof-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Aitchison/In Pictures, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3mXHcRw"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Amy Coney Barrett and the New, Old Anti-Catholicism",
+      "abstract": "Critics of Trump\u2019s Supreme Court nominee argue that pious Catholics are a problem for liberalism. They have a point.",
+      "url": "https://www.nytimes.com/2020/09/26/opinion/sunday/amy-coney-barrett-catholic-supreme-court.html",
+      "uri": "nyt://article/71bc8a86-fd60-554a-8e5b-366b5ebe9898",
+      "byline": "By Elizabeth Bruenig",
+      "item_type": "Article",
+      "updated_date": "2020-09-28T13:19:21-04:00",
+      "created_date": "2020-09-26T07:08:31-04:00",
+      "published_date": "2020-09-26T07:08:31-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Appointments and Executive Changes",
+        "Freedom of Religion",
+        "Religion-State Relations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)",
+        "Roman Catholic Church"
+      ],
+      "per_facet": [
+        "Barrett, Amy Coney"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/00bruenig1a/merlin_164596698_fda0afa0-96e6-4322-92a0-1cd9320a1aea-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/00bruenig1a/00bruenig1a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/00bruenig1a/00bruenig1a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/00bruenig1a/00bruenig1a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/00bruenig1a/merlin_164596698_fda0afa0-96e6-4322-92a0-1cd9320a1aea-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Samuel Corum for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cBEgFr"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "A Supreme Court Fight Might Be Exactly What America Needs",
+      "abstract": "From the courts to Congress, we might need fewer embalming norms and more room for victories and defeat.",
+      "url": "https://www.nytimes.com/2020/09/25/opinion/sunday/supreme-court-democrats-republicans.html",
+      "uri": "nyt://article/ccd98e97-4a22-572f-8fd9-75ada1b68946",
+      "byline": "By Ross Douthat",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T19:56:05-04:00",
+      "created_date": "2020-09-25T05:00:34-04:00",
+      "published_date": "2020-09-25T05:00:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Conservatism (US Politics)",
+        "Constitution (US)"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "Senate",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni6/merlin_177090690_6e92c7b1-a187-443f-ac3a-de44e566b1dd-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni6/merlin_177090690_6e92c7b1-a187-443f-ac3a-de44e566b1dd-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni6/merlin_177090690_6e92c7b1-a187-443f-ac3a-de44e566b1dd-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni6/merlin_177090690_6e92c7b1-a187-443f-ac3a-de44e566b1dd-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Lee for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni6/merlin_177090690_6e92c7b1-a187-443f-ac3a-de44e566b1dd-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Christopher Lee for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cL7FgR"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Will Trump\u2019s Presidency Ever End?",
+      "abstract": "America is in terrible danger.",
+      "url": "https://www.nytimes.com/2020/09/25/opinion/sunday/trump-election-supreme-court.html",
+      "uri": "nyt://article/7189b06a-7b60-569b-ba31-c4158b5a9afd",
+      "byline": "By Frank Bruni",
+      "item_type": "Article",
+      "updated_date": "2020-10-05T13:56:01-04:00",
+      "created_date": "2020-09-25T05:00:33-04:00",
+      "published_date": "2020-09-25T05:00:33-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Presidential Election of 2020"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni1a/merlin_176166543_e8ebdce6-4002-4d75-a6ab-af5c6c71ce8d-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1442,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni1a/25bruni1a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni1a/25bruni1a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni1a/25bruni1a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25bruni1a/merlin_176166543_e8ebdce6-4002-4d75-a6ab-af5c6c71ce8d-articleInline.jpg",
+          "format": "Normal",
+          "height": 270,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alyssa Schukar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2GeuQne"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "\u2018When You Get Into Unschooling, It\u2019s Almost Like a Religion\u2019",
+      "abstract": "The movement might help us deal with the problems posed by remote learning.",
+      "url": "https://www.nytimes.com/2020/09/25/opinion/sunday/unschooling-homeschooling-remote-learning.html",
+      "uri": "nyt://article/7282cb4b-f285-5db6-b416-8b2fcc48b8e4",
+      "byline": "By Molly Worthen",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T17:23:03-04:00",
+      "created_date": "2020-09-25T05:00:26-04:00",
+      "published_date": "2020-09-25T05:00:26-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Education (K-12)",
+        "Home Schooling",
+        "E-Learning",
+        "Black People",
+        "Coronavirus (2019-nCoV)",
+        "Families and Family Life",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/25worthen/25worthen-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1783,
+          "width": 1783,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marta Monteiro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/25worthen/25worthen-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marta Monteiro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/25worthen/25worthen-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marta Monteiro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/25worthen/25worthen-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marta Monteiro"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/25worthen/25worthen-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Marta Monteiro"
+        }
+      ],
+      "short_url": "https://nyti.ms/33XgOyP"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "A Brief Guide to 21st-Century Blackface",
+      "abstract": "Twenty years ago, Spike Lee\u2019s \u201cBamboozled\u201d skewered America\u2019s love of minstrelsy. Has Hollywood learned anything about blackface since?",
+      "url": "https://www.nytimes.com/interactive/2020/09/25/opinion/blackface-tv-movies-race.html",
+      "uri": "nyt://interactive/1ad44186-dc5d-57a4-9e55-e831c282fc5c",
+      "byline": "By Aisha Harris",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-27T17:22:54-04:00",
+      "created_date": "2020-09-25T05:00:03-04:00",
+      "published_date": "2020-09-25T05:00:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Movies"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25harris-promo/25harris-promo-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 830,
+          "width": 846,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bamboozled 2000 movie poster",
+          "copyright": "New Line Cinema, via Everette Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25harris-promo/25harris-promo-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bamboozled 2000 movie poster",
+          "copyright": "New Line Cinema, via Everette Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25harris-promo/25harris-promo-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bamboozled 2000 movie poster",
+          "copyright": "New Line Cinema, via Everette Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25harris-promo/25harris-promo-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bamboozled 2000 movie poster",
+          "copyright": "New Line Cinema, via Everette Collection"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/25/opinion/25harris-promo/25harris-promo-articleInline.jpg",
+          "format": "Normal",
+          "height": 178,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bamboozled 2000 movie poster",
+          "copyright": "New Line Cinema, via Everette Collection"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cvMRK7"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Life in \u2018Anarchist\u2019 New York City",
+      "abstract": "I saw a woman drinking iced coffee in 57 degree weather. OK, chaos agent!",
+      "url": "https://www.nytimes.com/2020/09/24/opinion/sunday/anarchist-jurisdiction-new-york.html",
+      "uri": "nyt://article/945caca1-6b5b-5112-8f82-33f169a06a61",
+      "byline": "By Maeve Higgins",
+      "item_type": "Article",
+      "updated_date": "2020-09-27T12:09:00-04:00",
+      "created_date": "2020-09-24T16:44:56-04:00",
+      "published_date": "2020-09-24T16:44:56-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Barr, William P"
+      ],
+      "geo_facet": [
+        "Brooklyn (NYC)",
+        "New York City"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Higgins/merlin_172071123_1a0fdfaa-c0fc-4592-a287-2119286c0d85-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1367,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Higgins/24Higgins-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Higgins/24Higgins-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Higgins/merlin_172071123_1a0fdfaa-c0fc-4592-a287-2119286c0d85-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Higgins/merlin_172071123_1a0fdfaa-c0fc-4592-a287-2119286c0d85-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Andrew Seng for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cxHWZ7"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "How Did a Young, Unknown Lawyer Change the World?",
+      "abstract": "Ruth Bader Ginsburg took on the obstacles to women\u2019s equality incrementally, but she was powered by a larger vision.",
+      "url": "https://www.nytimes.com/2020/09/24/opinion/sunday/ginsburg-supreme-court.html",
+      "uri": "nyt://article/e181a773-a50b-5731-9b4b-0eb7375bbdd0",
+      "byline": "By Linda Greenhouse",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T20:04:50-04:00",
+      "created_date": "2020-09-24T08:49:01-04:00",
+      "published_date": "2020-09-24T08:49:01-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Women and Girls",
+        "Same-Sex Marriage, Civil Unions and Domestic Partnerships"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Greenhouse/24Greenhouse-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1260,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive, via Getty Images (1977)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Greenhouse/24Greenhouse-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive, via Getty Images (1977)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Greenhouse/24Greenhouse-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive, via Getty Images (1977)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Greenhouse/24Greenhouse-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive, via Getty Images (1977)"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/24Greenhouse/24Greenhouse-articleInline.jpg",
+          "format": "Normal",
+          "height": 309,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Bettmann Archive, via Getty Images (1977)"
+        }
+      ],
+      "short_url": "https://nyti.ms/2S1yKmd"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "I Am Not a Housewife. I\u2019m a Prepper.",
+      "abstract": "Survivalism can be less about guns and ammo, and more about homemaking and community resilience.",
+      "url": "https://www.nytimes.com/2020/09/24/opinion/sunday/i-am-not-a-housewife-im-a-prepper.html",
+      "uri": "nyt://article/b5d13f14-6d1a-5081-b3e3-1e86087c84c5",
+      "byline": "By Mira Ptacin",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T19:59:22-04:00",
+      "created_date": "2020-09-24T05:00:04-04:00",
+      "published_date": "2020-09-24T05:00:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Doomsday",
+        "Disasters and Emergencies",
+        "Women and Girls",
+        "Parenting"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24ptacin/24ptacin-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julianna Brion"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24ptacin/24ptacin-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julianna Brion"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24ptacin/24ptacin-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julianna Brion"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24ptacin/24ptacin-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julianna Brion"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24ptacin/24ptacin-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Julianna Brion"
+        }
+      ],
+      "short_url": "https://nyti.ms/3cDGPqD"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "Trump\u2019s Desperate Plan to Cut Short the Census Could Backfire",
+      "abstract": "Everyone will get hurt, but Republican states may lose the most.",
+      "url": "https://www.nytimes.com/interactive/2020/09/23/opinion/trump-census-2020.html",
+      "uri": "nyt://interactive/fe9c4865-4d55-5625-9720-4181a327ebed",
+      "byline": "By Gus Wezerek and Andrew Whitby",
+      "item_type": "Interactive",
+      "updated_date": "2020-09-26T20:00:06-04:00",
+      "created_date": "2020-09-23T05:00:02-04:00",
+      "published_date": "2020-09-23T05:00:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Census",
+        "Population",
+        "United States Politics and Government",
+        "Medicaid"
+      ],
+      "org_facet": [
+        "Census Bureau",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/23wezerek-promo-1600831129529/23wezerek-promo-1600831129529-superJumbo.png",
+          "format": "superJumbo",
+          "height": 1331,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/23wezerek-promo-1600831129529/23wezerek-promo-1600831129529-thumbStandard.png",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/23wezerek-promo-1600831129529/23wezerek-promo-1600831129529-thumbLarge.png",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/23wezerek-promo-1600831129529/23wezerek-promo-1600831129529-mediumThreeByTwo210.png",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/22/us/23wezerek-promo-1600831129529/23wezerek-promo-1600831129529-articleInline.png",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/360PLoI"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "America\u2019s Tech Billionaires Could Help Protect the Election. If They Wanted To.",
+      "abstract": "The most patriotic thing that companies could do is make democracy work better.",
+      "url": "https://www.nytimes.com/2020/09/22/opinion/sunday/2020-election-security-tech.html",
+      "uri": "nyt://article/03a07f0e-8ce1-533f-85fe-9ff639906fc1",
+      "byline": "By Charlie Warzel",
+      "item_type": "Article",
+      "updated_date": "2020-09-26T19:58:22-04:00",
+      "created_date": "2020-09-22T13:47:10-04:00",
+      "published_date": "2020-09-22T13:47:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Computers and the Internet",
+        "Paid Time Off",
+        "Absentee Voting",
+        "Voter Fraud (Election Fraud)",
+        "High Net Worth Individuals"
+      ],
+      "org_facet": [
+        "Apple Inc",
+        "Amazon.com Inc",
+        "Google Inc",
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Bezos, Jeffrey P",
+        "Cook, Timothy D",
+        "Giridharadas, Anand",
+        "Zuckerberg, Mark E",
+        "Ovadya, Aviv"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/25warzel/22warzel-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1355,
+          "width": 1354,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicholas Konrad/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/25warzel/22warzel-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicholas Konrad/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/25warzel/22warzel-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicholas Konrad/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/25warzel/22warzel-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicholas Konrad/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/27/opinion/25warzel/22warzel-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Nicholas Konrad/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3j7YedE"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "After Fire and Floods, Glimmers of Hope",
+      "abstract": "Americans may be finding some common sense about building homes in vulnerable areas.",
+      "url": "https://www.nytimes.com/2020/09/19/opinion/sunday/fires-hurricanes-climate-change-homes.html",
+      "uri": "nyt://article/8114f5ec-f5d5-5483-849d-93779f2e5752",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2020-09-20T16:50:35-04:00",
+      "created_date": "2020-09-19T14:58:54-04:00",
+      "published_date": "2020-09-19T14:58:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wildfires",
+        "Building (Construction)",
+        "Politics and Government",
+        "Disasters and Emergencies",
+        "Forests and Forestry",
+        "Global Warming",
+        "Coast Erosion",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/opinion/19climateweb/19climateweb-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/opinion/19climateweb/19climateweb-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/opinion/19climateweb/19climateweb-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/opinion/19climateweb/19climateweb-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/19/opinion/19climateweb/19climateweb-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3hNpjkC"
+    },
+    {
+      "section": "opinion",
+      "subsection": "sunday",
+      "title": "The Pandemic, From the Virus\u2019s Point of View",
+      "abstract": "The career of the coronavirus so far is, in Darwinian terms, a great success story.",
+      "url": "https://www.nytimes.com/2020/09/19/opinion/sunday/coronavirus-covid-evolution.html",
+      "uri": "nyt://article/375e9e76-5516-5633-bdd1-261840a71feb",
+      "byline": "By David Quammen",
+      "item_type": "Article",
+      "updated_date": "2020-09-20T21:09:37-04:00",
+      "created_date": "2020-09-19T14:37:06-04:00",
+      "published_date": "2020-09-19T14:37:06-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Bats",
+        "Coronavirus Risks and Safety Concerns",
+        "Coronavirus (2019-nCoV)",
+        "SARS (Severe Acute Respiratory Syndrome)",
+        "Evolution (Biology)",
+        "Rats",
+        "Acquired Immune Deficiency Syndrome",
+        "Monkeys and Apes",
+        "Caves and Caverns",
+        "Plague"
+      ],
+      "org_facet": [
+        "Cell (Journal)"
+      ],
+      "per_facet": [
+        "Aristotle",
+        "Fauci, Anthony S",
+        "Hahn, Beatrice H",
+        "Worobey, Michael G (1970- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/opinion/sunday/19quammen/19quammen-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2045,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Leigh Wells; photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/opinion/sunday/19quammen/19quammen-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Leigh Wells; photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/opinion/sunday/19quammen/19quammen-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Leigh Wells; photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/opinion/sunday/19quammen/19quammen-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Leigh Wells; photographs by Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2020/09/20/opinion/sunday/19quammen/19quammen-articleInline.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Leigh Wells; photographs by Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/35MeNIe"
+    }
+  ]
+}

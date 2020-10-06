@@ -1,0 +1,1247 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/f65c2bbe-f44e-5303-97d4-6568e608b226",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/trump-election-fraud-2020.html",
+      "id": 100000007367744,
+      "asset_id": 100000007367744,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 20:13:25",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);United States Politics and Government;Absentee Voting;Biden, Joseph R Jr;Trump, Donald J;Republican Party;Democratic Party",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "Trump Sent a Warning. Let\u2019s Take It Seriously.",
+      "abstract": "Our democracy is in terrible danger \u2014 more than since the Civil War, more than after Pearl Harbor, more than during the Cuban missile crisis.",
+      "des_facet": [
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Absentee Voting"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29friedmanWeb/29friedmanWeb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b1c83800-a65e-5662-a8e2-0468036a4168",
+      "url": "https://www.nytimes.com/2020/10/01/opinion/trump-ethics-immorality.html",
+      "id": 100000007372386,
+      "asset_id": 100000007372386,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-03 08:10:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Polls and Public Opinion;Ethics (Personal);Books and Literature;Nationalism (Theory and Philosophy);Trump, Donald J;Hibbing, John R",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "At His Core, Trump Is an Immoralist",
+      "abstract": "Will we let this man and his felons drag us to moral chaos?",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Polls and Public Opinion",
+        "Ethics (Personal)",
+        "Books and Literature",
+        "Nationalism (Theory and Philosophy)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Hibbing, John R"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "In this presidential campaign, Trump\u2019s nationalist platform \u2014 trade, immigration \u2014 has faded into the background while his immoral nature has taken center stage.",
+          "copyright": "Tom Brenner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/01BrooksWeb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/merlin_177907830_d9bcfb7e-9e00-42f2-a609-9aa7af8e830e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/01BrooksWeb/merlin_177907830_d9bcfb7e-9e00-42f2-a609-9aa7af8e830e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/edf8e8ec-52ca-5407-bcd2-440139ebcedb",
+      "url": "https://www.nytimes.com/2020/09/30/style/deepak-chopra-disagreement-advice.html",
+      "id": 100000007345826,
+      "asset_id": 100000007345826,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-05 13:24:43",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Content Type: Service;Social Media;Buddhism;Bullies;Meditation;your-feed-selfcare;Chopra, Deepak",
+      "column": null,
+      "byline": "By Nicole Pajer",
+      "type": "Article",
+      "title": "How to Have a Disagreement Like an Adult, According to Deepak Chopra",
+      "abstract": "The longtime New Age celebrity has a working theory about how we can all get along. Your mileage may vary.",
+      "des_facet": [
+        "Content Type: Service",
+        "Social Media",
+        "Buddhism",
+        "Bullies",
+        "Meditation",
+        "your-feed-selfcare"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Chopra, Deepak"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Philip Cheung for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/fashion/29DEEPAK1/29DEEPAK1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a2b8bd1f-47aa-59cc-9199-0b3a155eb54e",
+      "url": "https://www.nytimes.com/2020/09/28/well/eat/a-potential-downside-of-intermittent-fasting.html",
+      "id": 100000007359088,
+      "asset_id": 100000007359088,
+      "source": "New York Times",
+      "published_date": "2020-09-28",
+      "updated": "2020-09-30 16:34:05",
+      "section": "Well",
+      "subsection": "Eat",
+      "nytdsection": "well",
+      "adx_keywords": "Fasting;Weight;Obesity;Diet and Nutrition;Muscles;Calories;JAMA Internal Medicine (Journal)",
+      "column": null,
+      "byline": "By Anahad O\u2019Connor",
+      "type": "Article",
+      "title": "A Potential Downside of Intermittent Fasting",
+      "abstract": "A rigorous three-month study found that people lost little weight, and much of that may have been from muscle.",
+      "des_facet": [
+        "Fasting",
+        "Weight",
+        "Obesity",
+        "Diet and Nutrition",
+        "Muscles",
+        "Calories"
+      ],
+      "org_facet": [
+        "JAMA Internal Medicine (Journal)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chiara Zarmati",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/06/science/WELL-INTERMITTENTFASTING/WELL-INTERMITTENTFASTING-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/428274fa-2d8e-5ea7-8d12-b45d9dfc26f6",
+      "url": "https://www.nytimes.com/2020/09/25/opinion/debate-trump-biden-lie.html",
+      "id": 100000007347301,
+      "asset_id": 100000007347301,
+      "source": "New York Times",
+      "published_date": "2020-09-25",
+      "updated": "2020-09-28 17:07:51",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Rumors and Misinformation;Lying;Debates (Political);United States Politics and Government;Coronavirus (2019-nCoV);Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Richard A. Friedman",
+      "type": "Article",
+      "title": "How to Debate Someone Who Lies",
+      "abstract": "Truth sandwiches, ridicule and other tactics for Joe Biden when he faces President Trump.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Rumors and Misinformation",
+        "Lying",
+        "Debates (Political)",
+        "United States Politics and Government",
+        "Coronavirus (2019-nCoV)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Alvaro Dominguez; photograph by Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24friedman/24friedman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24friedman/24friedman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/27/opinion/sunday/24friedman/24friedman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f8da7d9f-dec8-559e-ad96-bc30245a846a",
+      "url": "https://www.nytimes.com/2020/06/18/health/resilience-relationships-trauma.html",
+      "id": 100000007182686,
+      "asset_id": 100000007182686,
+      "source": "New York Times",
+      "published_date": "2020-06-18",
+      "updated": "2020-06-22 17:13:54",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Content Type: Service;Post-Traumatic Stress Disorder;Psychology and Psychologists;Anxiety and Stress",
+      "column": null,
+      "byline": "By Eilene Zimmerman",
+      "type": "Article",
+      "title": "What Makes Some People More Resilient Than Others",
+      "abstract": "The very earliest days of our lives, and our closest relationships, can offer clues about how we cope with adversity.",
+      "des_facet": [
+        "Content Type: Service",
+        "Post-Traumatic Stress Disorder",
+        "Psychology and Psychologists",
+        "Anxiety and Stress"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Monika Aichele",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/06/18/multimedia/18sp-resilience-zimmerman/18sp-resilience-zimmerman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/633f0a6d-c562-5cd6-89ed-b31a1e41ff18",
+      "url": "https://www.nytimes.com/2020/09/23/sports/sled-dogs-mushing-unknowns-planning.html",
+      "id": 100000007320813,
+      "asset_id": 100000007320813,
+      "source": "New York Times",
+      "published_date": "2020-09-23",
+      "updated": "2020-09-29 11:02:00",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Dog Sledding;Coronavirus (2019-nCoV);Dogs;Quarantine (Life and Culture)",
+      "column": null,
+      "byline": "By Blair Braverman",
+      "type": "Article",
+      "title": "What My Sled Dogs Taught Me About Planning for the Unknown",
+      "abstract": "Working with them in the wilderness means negotiating countless shifting variables. Sounds a lot like the world we\u2019re living in.",
+      "des_facet": [
+        "Dog Sledding",
+        "Coronavirus (2019-nCoV)",
+        "Dogs",
+        "Quarantine (Life and Culture)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Blair Braverman and some of her dogs at the Alpine Creek Lodge, which is on mile 68 of the Denali Highway, east of Cantwell, Alaska. And, yes, those are bootees on the dogs\u2019 feet.",
+          "copyright": "Nathaniel Wilder",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/23SP-RESILIENCE-MUSHING1/23SP-RESILIENCE-MUSHING1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b950be50-d4bc-583b-8486-271f3af181b0",
+      "url": "https://www.nytimes.com/2020/09/27/us/trump-taxes-takeaways.html",
+      "id": 100000007357966,
+      "asset_id": 100000007357966,
+      "source": "New York Times",
+      "published_date": "2020-09-27",
+      "updated": "2020-09-30 01:05:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Trump Tax Returns;Conflicts of Interest;Presidential Election of 2020;Income Tax;Lobbying and Lobbyists;United States Politics and Government;Consultants;Tax Credits, Deductions and Exemptions;Credit and Debt;Trump, Donald J;Trump, Ivanka;Trump Organization;Internal Revenue Service",
+      "column": null,
+      "byline": "By David Leonhardt",
+      "type": "Article",
+      "title": "18 Revelations From a Trove of Trump Tax Records",
+      "abstract": "Times reporters have obtained decades of tax information the president has hidden from public view. Here are some of the key findings.",
+      "des_facet": [
+        "Trump Tax Returns",
+        "Conflicts of Interest",
+        "Presidential Election of 2020",
+        "Income Tax",
+        "Lobbying and Lobbyists",
+        "United States Politics and Government",
+        "Consultants",
+        "Tax Credits, Deductions and Exemptions",
+        "Credit and Debt"
+      ],
+      "org_facet": [
+        "Trump Organization",
+        "Internal Revenue Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Trump, Ivanka"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Many of President Trump\u2019s properties operate at a loss, but Trump Tower in Manhattan is an exception, regularly earning him more than $20 million a year.",
+          "copyright": "Haruka Sakaguchi for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/00picksix-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/23/multimedia/00picksix-1/merlin_165519444_e7317123-59fe-4d7e-9791-4486ba93060a-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1dc5d51b-f562-5714-bc62-67289411eba3",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/ruth-bader-ginsburg-jewish.html",
+      "id": 100000007366999,
+      "asset_id": 100000007366999,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 17:26:38",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Jews and Judaism;United States Politics and Government;Ginsburg, Ruth Bader;Supreme Court (US)",
+      "column": null,
+      "byline": "By Jennifer Weiner",
+      "type": "Article",
+      "title": "The Very Jewish R.B.G.",
+      "abstract": "Back in the days of Clinton and Obama, Ginsburg\u2019s presence on the bench was a symbol of progress. In the days of Trump, she was a bulwark.",
+      "des_facet": [
+        "Jews and Judaism",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [
+        "Ginsburg, Ruth Bader"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kevin Wolf/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/29/opinion/29Weiner1/29Weiner1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8cde129e-46e7-5c79-8022-e23d4cf19402",
+      "url": "https://www.nytimes.com/2020/09/30/us/politics/trump-debate-election.html",
+      "id": 100000007369574,
+      "asset_id": 100000007369574,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 14:37:54",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2020;Absentee Voting;Voter Fraud (Election Fraud);Debates (Political);Rumors and Misinformation;Russian Interference in 2016 US Elections and Ties to Trump Associates;Cyberwarfare and Defense;Espionage and Intelligence Services;United States Politics and Government;Trump, Donald J;Biden, Joseph R Jr;Putin, Vladimir V;Russia",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Tuesday\u2019s Debate Made Clear the Gravest Threat to the Election: The President Himself",
+      "abstract": "President Trump\u2019s unwillingness to say he would abide by the result and his disinformation campaign about election fraud went beyond anything President Vladimir V. Putin could have imagined.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Absentee Voting",
+        "Voter Fraud (Election Fraud)",
+        "Debates (Political)",
+        "Rumors and Misinformation",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Cyberwarfare and Defense",
+        "Espionage and Intelligence Services",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J",
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump last month at a rally in Mosinee, Wis. He said on Tuesday that balloting already underway was \u201ca fraud and a shame\u201d and proof of \u201ca rigged election.\u201d",
+          "copyright": "Al Drago for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/us/politics/30dc-trumpthreats/30dc-trumpthreats-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5c90f49b-089a-5e75-9746-8ccfdfe018d1",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/melania-trump-tapes.html",
+      "id": 100000007373819,
+      "asset_id": 100000007373819,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 12:49:22",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "First Ladies (US);Audio Recordings, Downloads and Streaming;Family Separation Policy (US Immigration);Illegal Immigration;Books and Literature;United States Politics and Government;Trump, Melania;Winston Wolkoff, Stephanie;Trump, Donald J",
+      "column": null,
+      "byline": "By Michael D. Shear",
+      "type": "Article",
+      "title": "In Profane Rant, Melania Trump Takes Aim at Migrant Children and Critics",
+      "abstract": "The audio recording puts the first lady\u2019s frustrations on full display just weeks before President Trump faces the voters in his bid for a second term.",
+      "des_facet": [
+        "First Ladies (US)",
+        "Audio Recordings, Downloads and Streaming",
+        "Family Separation Policy (US Immigration)",
+        "Illegal Immigration",
+        "Books and Literature",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Melania",
+        "Winston Wolkoff, Stephanie",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The first lady, Melania Trump, complained in a recorded conversation in 2018 about having to worry about Christmas decorations.",
+          "copyright": "Kevin Lamarque/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/world/01dc-melania2/01dc-melania2-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4070a7ef-a77e-5ea0-b0c7-728b5b5beba8",
+      "url": "https://www.nytimes.com/2020/10/03/opinion/sunday/trump-coronavirus-covid.html",
+      "id": 100000007375228,
+      "asset_id": 100000007375228,
+      "source": "New York Times",
+      "published_date": "2020-10-03",
+      "updated": "2020-10-05 16:33:51",
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "nytdsection": "opinion",
+      "adx_keywords": "Trump Coronavirus Positive Result;Coronavirus (2019-nCoV);Presidential Election of 2020;United States Politics and Government;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Reality Bursts the Trumpworld Bubble",
+      "abstract": "In a moment that feels biblical, the implacable virus has come to the president\u2019s door.",
+      "des_facet": [
+        "Trump Coronavirus Positive Result",
+        "Coronavirus (2019-nCoV)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The president, heading for Walter Reed medical center.",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/04/opinion/sunday/03Dowd2/03Dowd2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/77ff76df-da16-5ddb-b110-6259e05f8373",
+      "url": "https://www.nytimes.com/2020/07/15/parenting/kids-covid-19-test.html",
+      "id": 100000007234329,
+      "asset_id": 100000007234329,
+      "source": "New York Times",
+      "published_date": "2020-07-15",
+      "updated": "2020-07-17 10:28:26",
+      "section": "Parenting",
+      "subsection": "",
+      "nytdsection": "parenting",
+      "adx_keywords": "Coronavirus (2019-nCoV);Children and Childhood;Tests (Medical);Parenting;Content Type: Service",
+      "column": null,
+      "byline": "By Holly Rosenkrantz",
+      "type": "Article",
+      "title": "Coronavirus Tests Can Be Scary for Kids. Here\u2019s How to Make Them Easier.",
+      "abstract": "A nasal swab is invasive and uncomfortable for anyone. For children, knowing what to expect can help ease the anxiety.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Children and Childhood",
+        "Tests (Medical)",
+        "Parenting",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robyn Beck/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/multimedia/14parenting-medical-tests/14parenting-medical-tests-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/multimedia/14parenting-medical-tests/14parenting-medical-tests-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/07/14/multimedia/14parenting-medical-tests/14parenting-medical-tests-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e21fc06b-bb84-5fdc-a19d-ca88fccba824",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/trump-biden-debate-2020.html",
+      "id": 100000007369893,
+      "asset_id": 100000007369893,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-02 01:14:32",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Debates (Political);Rumors and Misinformation;Absentee Voting;Right-Wing Extremism and Alt-Right;Biden, Joseph R Jr;Trump, Donald J;Wallace, Chris (1947- )",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "A Debate That Can\u2019t Be Ignored",
+      "abstract": "Americans need to face the man who is their president.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Debates (Political)",
+        "Rumors and Misinformation",
+        "Absentee Voting",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Wallace, Chris (1947- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/30debateED/30debateED-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/30debateED/30debateED-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/opinion/30debateED/30debateED-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8b797782-f8be-5a87-81eb-cc5c4b75f594",
+      "url": "https://www.nytimes.com/2020/09/29/opinion/covid-pandemic-us-response.html",
+      "id": 100000007359076,
+      "asset_id": 100000007359076,
+      "source": "New York Times",
+      "published_date": "2020-09-29",
+      "updated": "2020-09-30 21:30:44",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Coronavirus (2019-nCoV);Deaths (Fatalities);Coronavirus Reopenings;Quarantines;Epidemics;Tests (Medical);Masks;Bush, George W;Obama, Barack;Trump, Donald J;Centers for Disease Control and Prevention;United States;China;New York City;Europe",
+      "column": null,
+      "byline": "By Johnny Harris, Nicholas Kristof and Adam B. Ellick",
+      "type": "Article",
+      "title": "How America Lost 200,000 Lives to Covid-19",
+      "abstract": "The U.S. spent 15 years preparing for the coronavirus. Why did we handle it so badly?",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Deaths (Fatalities)",
+        "Coronavirus Reopenings",
+        "Quarantines",
+        "Epidemics",
+        "Tests (Medical)",
+        "Masks"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [
+        "Bush, George W",
+        "Obama, Barack",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "United States",
+        "China",
+        "New York City",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/autossell/op-covid-explainer-thumb/op-covid-explainer-thumb-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1c2da958-3f03-52a3-8d50-6cb9ad94e2ee",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/biden-trump-2020-debate.html",
+      "id": 100000007367898,
+      "asset_id": 100000007367898,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 01:16:04",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Debates (Political);Presidential Election of 2020;United States Politics and Government;Biden, Joseph R Jr;Trump, Donald J",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "After That Fiasco, Biden Should Refuse to Debate Trump Again",
+      "abstract": "The president was petulant and puerile, so what is the point?",
+      "des_facet": [
+        "Debates (Political)",
+        "Presidential Election of 2020",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph by Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30bruni1/30bruni1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/32d40ba0-d91d-5c3b-ae7b-49987278ff4c",
+      "url": "https://www.nytimes.com/2020/09/30/opinion/trump-2020-moving-abroad.html",
+      "id": 100000007363660,
+      "asset_id": 100000007363660,
+      "source": "New York Times",
+      "published_date": "2020-09-30",
+      "updated": "2020-10-01 15:36:56",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Americans Abroad;Citizenship and Naturalization;United States Politics and Government;Trump, Donald J;Germany;Ireland;Lithuania;United States",
+      "column": null,
+      "byline": "By Jennifer Finney Boylan",
+      "type": "Article",
+      "title": "Will You Leave the Country if Trump Is Re-elected?",
+      "abstract": "A generation of Americans prepares to flee.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Americans Abroad",
+        "Citizenship and Naturalization",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Germany",
+        "Ireland",
+        "Lithuania",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alex Filipe/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/30/opinion/30Boylan/30Boylan-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e2b57465-bd67-5859-b914-9ed679488725",
+      "url": "https://www.nytimes.com/2020/10/01/us/politics/black-girls-school-discipline.html",
+      "id": 100000007320051,
+      "asset_id": 100000007320051,
+      "source": "New York Times",
+      "published_date": "2020-10-01",
+      "updated": "2020-10-02 09:00:43",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Black People;Women and Girls;Discrimination;Education (K-12);School Discipline (Students);Civil Rights and Liberties;Suits and Litigation (Civil);NAACP Legal Defense and Educational Fund;Binghamton (NY);Baltimore (Md);United States",
+      "column": null,
+      "byline": "By Erica L. Green, Mark Walker and Eliza Shapiro",
+      "type": "Article",
+      "title": "\u2018A Battle for the Souls of Black Girls\u2019",
+      "abstract": "Discipline disparities between Black and white boys have driven reform efforts for years. But Black girls are arguably the most at-risk student group in the United States.",
+      "des_facet": [
+        "Black People",
+        "Women and Girls",
+        "Discrimination",
+        "Education (K-12)",
+        "School Discipline (Students)",
+        "Civil Rights and Liberties",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "NAACP Legal Defense and Educational Fund"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Binghamton (NY)",
+        "Baltimore (Md)",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "&ldquo;It&rsquo;s not fair that now I have to say, &lsquo;It&rsquo;s OK to be Black and hyper and giddy,&rsquo; that it&rsquo;s not a crime to smile,&rdquo; Zulayka McKinstry said of her daughter.",
+          "copyright": "Miranda Barnes for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/00dc-blackgirldiscipline1/00dc-blackgirldiscipline1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/00dc-blackgirldiscipline1/00dc-blackgirldiscipline1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/10/01/us/politics/00dc-blackgirldiscipline1/00dc-blackgirldiscipline1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/84fdbd36-1e0e-5486-9c9d-a1983fed80cc",
+      "url": "https://www.nytimes.com/2020/09/26/health/black-licorice-death-boston.html",
+      "id": 100000007359425,
+      "asset_id": 100000007359425,
+      "source": "New York Times",
+      "published_date": "2020-09-26",
+      "updated": "2020-09-27 19:46:25",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Candy;Deaths (Fatalities);Heart;Acids;New England Journal of Medicine;Massachusetts General Hospital;Massachusetts",
+      "column": null,
+      "byline": "By Maria Cramer",
+      "type": "Article",
+      "title": "A Man Died After Eating a Bag of Black Licorice Every Day",
+      "abstract": "Doctors at Massachusetts General Hospital said the unusual case highlighted the risk of consuming too much glycyrrhizic acid, which is found in black licorice.",
+      "des_facet": [
+        "Candy",
+        "Deaths (Fatalities)",
+        "Heart",
+        "Acids"
+      ],
+      "org_facet": [
+        "New England Journal of Medicine",
+        "Massachusetts General Hospital"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Massachusetts"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The black and chewy candy contains glycyrrhizic acid, a plant extract that can lead to high blood pressure if consumed in large doses.",
+          "copyright": "Anoek De Groot/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/multimedia/24xp-licorice/24xp-licorice-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/multimedia/24xp-licorice/24xp-licorice-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/multimedia/24xp-licorice/24xp-licorice-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e97ba242-6a07-589a-aca0-e09a3f8a1c0e",
+      "url": "https://www.nytimes.com/2020/09/26/us/coronavirus-vermont-transplants.html",
+      "id": 100000007344314,
+      "asset_id": 100000007344314,
+      "source": "New York Times",
+      "published_date": "2020-09-26",
+      "updated": "2020-09-27 12:04:31",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Coronavirus (2019-nCoV);Population;Vermont;Winhall (VT)",
+      "column": null,
+      "byline": "By Ellen Barry",
+      "type": "Article",
+      "title": "The Virus Sent Droves to a Small Town. Suddenly, It\u2019s Not So Small.",
+      "abstract": "The population boomed in Winhall, Vt., as people tried to get away from Covid-19 hot spots. Bear complaints are up. Plumbers are booked until Christmas. And the dump is \u201csheer pandemonium.\u201d",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Population"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Vermont",
+        "Winhall (VT)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "As city dwellers scrambled to settle their families far away from hot spots, Vermont\u2019s regular summer influx swelled by approximately 10,000.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/us/00virus-cityrefugees-1/00virus-cityrefugees-1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/us/00virus-cityrefugees-1/00virus-cityrefugees-1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2020/09/24/us/00virus-cityrefugees-1/00virus-cityrefugees-1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
